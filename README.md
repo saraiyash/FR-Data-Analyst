@@ -6,7 +6,7 @@ Technologies:
 2. SQL dialect - SQLite 
 3. Exploratory Data Analysis - Python3 :snake:, Jupyter Notebooks
 
-To get the entire solution, please refer the PDF or Word document files uploaded.
+To get the entire solution, please refer the PDF (preferably) or Word document files uploaded.
 Individual IPYNB and SQL files are also provided.
 
 Reach out at :mailbox_closed: saraiyash@tamu.edu for more information regarding the solution.
